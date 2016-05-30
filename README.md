@@ -12,8 +12,8 @@ $("p").buildPassword(50);
 <div><p></p></div>
 ```
 
-The Example Output: 0hQ=4bM[5jJ(0nZ]nG]9wG[7wH/5nI8lW)4jB$9mN7uQ&3wC%6K)
+The Example Output: _0hQ=4bM[5jJ(0nZ]nG]9wG[7wH/5nI8lW)4jB$9mN7uQ&3wC%6K)_
 
 Have fun with it.
-_cyrix_
+
 
