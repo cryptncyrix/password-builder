@@ -34,6 +34,6 @@
             }
         }
     // output the string
-    return this.html(result);
+    return this.html(result.substr(0, minPassword));
     };
 }(jQuery));
